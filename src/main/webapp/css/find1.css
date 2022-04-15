@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.loginform {
+  display: flex;
+  flex-direction: column;
+  width: 450px;
+  margin: 200px auto 0;
+  padding: 20px 30px 30px;
+  background: #00a99d;
+  color: white;
+  font-size: 14px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.7), -1px -1px 5px rgba(0, 0, 0, 0.7);
+  border-radius: 10px;
+}
+.loginform h1 {
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.loginform h2 {
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.loginform h3 {
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
